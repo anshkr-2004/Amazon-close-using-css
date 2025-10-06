@@ -1,2 +1,2 @@
 # Amazon-close-using-css
-Amazon clone using css only
+this is an Amazon clone using css only
